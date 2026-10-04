@@ -1,7 +1,7 @@
 # Blade
 
 > [!WARNING]
-> This repository has now been archived. The code here is extremely primitive and slow compared to how I would currently structure it, and out of the box this systen will not compete with the latest available bots. I've made this repository public as a resource for beginners to get some ideas as to how bots like this function, and possibly use some concepts here in their own systems.
+> This repository has now been archived. The code here is extremely primitive and slow compared to how I have structured my latest private bots, and out of the box this system will not compete with the latest available bots. I've made this repository public as a resource for beginners to get some ideas as to how bots like this function, and possibly use some concepts here in their own systems.
 
 A [pump.fun](https://pump.fun/) sniper bot with an integrated realtime monitoring system built purposefully stateless to allow multiple instances with the same setup to be run and not interfere with each other.
 
